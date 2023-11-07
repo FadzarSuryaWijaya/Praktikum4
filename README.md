@@ -1,5 +1,13 @@
 # Praktikum4
 ## Struktur Kondisi
+>PROFIL
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Fadzar Surya Wijaya |
+| **NIM** | 312310451 |
+| **Kelas** | TI.23.A.5 |
+| **Mata Kuliah** | Bahasa Pemrograman |
+
 - Pada Latihan 1, kita membuat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
