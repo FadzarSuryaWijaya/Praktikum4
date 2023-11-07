@@ -92,6 +92,7 @@ tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 <img src="Screenshot/Lab3py_Latihan1.png">
 
 ### Latihan 2
+<i>Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.</i>
 #### Hasil Program
 - ``` Latihan2 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan2.png">
