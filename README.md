@@ -1,5 +1,6 @@
 # Praktikum4
 ## Struktur Kondisi
+
 ##PROFIL
 
 | Variable | Isi |
