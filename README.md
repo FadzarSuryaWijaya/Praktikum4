@@ -19,6 +19,7 @@ menggunakan statement if.
 Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.
 3. Hasil akhirnya adalah kode ini akan menampilkan bilangan terbesar dari dua bilangan yang dimasukkan oleh pengguna.
 #### Hasil program
+- ```Lab2 Struktur kondisi (Latihan1)```
 <img src="Screenshot/Lab2_Latihan1.png">
 
 
@@ -31,6 +32,7 @@ hasilnya secara berurutan mulai dari data terkecil.
 2. Hasil akhirnya adalah kode ini akan menerima input dari pengguna, mengurutkan data yang dimasukkan, dan kemudian mencetak hasil pengurutan tanpa desimal.
 
 #### Hasil program
+```Lab2 Struktur kondisi (Latihan2)```
 <img src="Screenshot/Lab2_Latihan2.png">
 
 
@@ -42,6 +44,7 @@ menghasilkan output sebagai berikut:
 1. Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.
 
 #### Hasil program
+- ```Lab3 Perulangan (Latihan1)```
 <img src="Screenshot/Lab3_Latihan1.png">
 
 
@@ -55,6 +58,7 @@ menghasilkan output sebagai berikut:
 2. Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.
 
 #### Hasil program
+- ```Lab3 Perulangan (Latihan2)```
 <img src="Screenshot/Lab3_Latihan2.png">
 
 
@@ -70,26 +74,35 @@ Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilanga
 Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.
 4. program akan mencetak bilangan terbesar ke terminal / konsole.
 #### Hasil program
+- ``` Praktikum2 (modul 2)(lab2py)```
 <img src="Screenshot/Labs2py_Praktikum2.png">
 
 ### Flowchart
-<img src=">
+- ``` FLowchart (screenshot_1)```
+<img src="Screenshot/SS_flowchart1.png">
+
+- ``` FLowchart (screeensshot_2)```
+<img src="Screenshot/SS_flowchart2.png">
 
 ## Tugas Labpy03
 ### Latihan 1
 #### Hasil Program
+- ``` Latihan1 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan1.png">
 
 ### Latihan 2
 #### Hasil Program
+- ``` Latihan2 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan2.png">
 
 ### Latihan 3
 #### Hasil Program
+- ``` Latihan3 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan3.png">
 
 ### Tugas Program1.py
 #### Hasil Program
+- ``` Program1 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Program1.py.png">
 
 
