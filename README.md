@@ -87,7 +87,7 @@ tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 
 ## Tugas Labpy03
 ### Latihan 1
-<i>Buat program menghasilkan input bilangan kurang dari 0.5 sebanyak "n"</i>
+<i>Buat program menghasilkan input bilangan kurang dari 0.5 sebanyak "n" kali.</i>
 #### Hasil Program
 - ``` Latihan1 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan1.png">
