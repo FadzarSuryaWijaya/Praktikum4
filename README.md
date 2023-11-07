@@ -1,8 +1,6 @@
 # Praktikum4
 ## Struktur Kondisi
-
 ##PROFIL
-
 | Variable | Isi |
 | -------- | --- |
 | **Nama** | Fadzar Surya Wijaya |
