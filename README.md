@@ -38,8 +38,8 @@ hasilnya secara berurutan mulai dari data terkecil.
 
 ## Tugas perulangan
 ### Latihan 1
-* Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
-menghasilkan output sebagai berikut:
+<ol type="list-style-type:disc"><li> Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
+menghasilkan output sebagai berikut:</li>
 <ol type="1"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
 
 #### Hasil program
@@ -48,7 +48,7 @@ menghasilkan output sebagai berikut:
 
 
 ### Latihan 2
-* Pada latihan 2, kita membuat program<br>
+<ul type="list-style-type:disc"><li>Pada latihan 2, kita membuat program<br></li>
   ```Tampilkan n bilangan acak yang lebih kecil dari 0.5.```<br>
   ```nilai n diisi pada saat runtime```<br>
   ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
@@ -63,7 +63,7 @@ menghasilkan output sebagai berikut:
 
 ## Tugas Labspy_02
 ### Praktikum 2
-<ul><li>Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
+<ul type="list-style-type:disc"><li>Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. Gunakan statement if.</li>
 <ol type="1"><li>Program akan meminta pengguna untuk memasukkan tiga bilangan: bilangan1, bilangan2, dan bilangan3.</li>
 <li>Tentukan sebuah variabel bernama "bilangan_terbesar" untuk menyimpan bilangan terbesar.</li>
