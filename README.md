@@ -38,9 +38,9 @@ hasilnya secara berurutan mulai dari data terkecil.
 
 ## Tugas perulangan
 ### Latihan 1
-<ol type="list-style-type:disc"><li> Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
-menghasilkan output sebagai berikut:</li>
-<ol type="1"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
+* Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
+menghasilkan output sebagai berikut:
+<ol type="1" style="line-height:80%"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
 
 #### Hasil program
 - ```Lab3 Perulangan (Latihan1)```
