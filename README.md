@@ -40,7 +40,7 @@ hasilnya secara berurutan mulai dari data terkecil.
 ### Latihan 1
 * Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
 menghasilkan output sebagai berikut:
-  <ol type="1)"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
+   <ol type="1)"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
 
 #### Hasil program
 - ```Lab3 Perulangan (Latihan1)```
