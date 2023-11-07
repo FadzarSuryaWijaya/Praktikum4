@@ -1,6 +1,7 @@
 # Praktikum4
 ## Struktur Kondisi
->PROFIL
+##PROFIL
+
 | Variable | Isi |
 | -------- | --- |
 | **Nama** | Fadzar Surya Wijaya |
@@ -167,3 +168,4 @@ git clone [url]
 - ```Lab3 Perulangan```
   ![Screenshot 2023-11-02 232448](https://github.com/Pynixz/Pertemuan7/assets/147568964/491baf1f-ac7d-44a3-a082-bcce702e286e)
   ![Screenshot 2023-11-06 150653](https://github.com/Pynixz/Pertemuan7/assets/147568964/c83268e6-4509-45a3-b736-2101ce0a4aed)
+
