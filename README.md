@@ -63,15 +63,15 @@ menghasilkan output sebagai berikut:
 
 ## Tugas Labspy_02
 ### Praktikum 2
-* Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
+<p>* Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 <ol type="1"><li>Program akan meminta pengguna untuk memasukkan tiga bilangan: bilangan1, bilangan2, dan bilangan3.</li>
 <li>Tentukan sebuah variabel bernama "bilangan_terbesar" untuk menyimpan bilangan terbesar.</li>
-<li>3.Gunakan pernyataan if dan elif untuk memeriksa kondisi berikut:<br>
+<li>Gunakan pernyataan if dan elif untuk memeriksa kondisi berikut:<br>
 Jika bilangan1 lebih besar dari bilangan2 dan bilangan1 lebih besar dari bilangan3, maka bilangan1 adalah bilangan terbesar.<br>
 Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilangan3, maka bilangan2 adalah bilangan terbesar.<br>
 Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.</li></ol>
-<li>4. program akan mencetak bilangan terbesar ke terminal / konsole.</ol>
+<li>program akan mencetak bilangan terbesar ke terminal / konsole.</li></ol></p>
 
 #### Hasil program
 - ``` Praktikum2 (modul 2)(lab2py)```
