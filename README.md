@@ -13,7 +13,6 @@
 * Pada Latihan 1, kita membuat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
-
   <ol type="1"><li> Kode ini menggunakan input(), kode meminta pengguna untuk memasukkan dua bilangan bulat.</li>
   <li> Kode kemudian membandingkan kedua bilangan menggunakan pernyataan if. Jika bilangan1 lebih besar dari bilangan2, maka bilangan_terbesar diatur menjadi bilangan1, jika tidak, maka diatur menjadi bilangan2.
   Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.</li>
@@ -50,9 +49,10 @@ menghasilkan output sebagai berikut:
 
 ### Latihan 2
 * Pada latihan 2, kita membuat program<br>
-  ```Tampilkan n bilangan acak yang lebih kecil dari 0.5.```<br>
-  ```nilai n diisi pada saat runtime```<br>
-  ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
+
+   ```Tampilkan n bilangan acak yang lebih kecil dari 0.5.```<br>
+   ```nilai n diisi pada saat runtime```<br>
+   ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
 
   <ol type="1"><li>Kode tersebut meminta pengguna memasukkan jumlah n. Jika n lebih besar dari 0, maka kode akan menghasilkan dan mencetak n bilangan acak yang kurang dari 0.5. Jika n tidak lebih besar dari 0, maka kode akan memberi pesan bahwa n harus lebih besar dari 0.</li>
   <li> Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.</li></ol>
