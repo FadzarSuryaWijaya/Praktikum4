@@ -1,3 +1,4 @@
+print("program mengurutkan data")
 #Masukan inputan
 bil1 = int(input("Bilangan ke-1: "))
 bil2 = int(input("Bilangan ke-2: "))

@@ -40,8 +40,7 @@ hasilnya secara berurutan mulai dari data terkecil.
 ### Latihan 1
 * Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
 menghasilkan output sebagai berikut:
-
-1. Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.
+<ol type="1"><li>Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.</li></ol>
 
 #### Hasil program
 - ```Lab3 Perulangan (Latihan1)```
@@ -54,8 +53,8 @@ menghasilkan output sebagai berikut:
   ```nilai n diisi pada saat runtime```<br>
   ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
 
-1. Kode tersebut meminta pengguna memasukkan jumlah n. Jika n lebih besar dari 0, maka kode akan menghasilkan dan mencetak n bilangan acak yang kurang dari 0.5. Jika n tidak lebih besar dari 0, maka kode akan memberi pesan bahwa n harus lebih besar dari 0.
-2. Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.
+<ol type="1"><li>Kode tersebut meminta pengguna memasukkan jumlah n. Jika n lebih besar dari 0, maka kode akan menghasilkan dan mencetak n bilangan acak yang kurang dari 0.5. Jika n tidak lebih besar dari 0, maka kode akan memberi pesan bahwa n harus lebih besar dari 0.</li>
+<li> Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.</li>
 
 #### Hasil program
 - ```Lab3 Perulangan (Latihan2)```
@@ -66,13 +65,14 @@ menghasilkan output sebagai berikut:
 ### Praktikum 2
 * Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
-1. Program akan meminta pengguna untuk memasukkan tiga bilangan: bilangan1, bilangan2, dan bilangan3.
-2. Tentukan sebuah variabel bernama "bilangan_terbesar" untuk menyimpan bilangan terbesar.
-3.Gunakan pernyataan if dan elif untuk memeriksa kondisi berikut:<br>
+<ol type="1"><li>Program akan meminta pengguna untuk memasukkan tiga bilangan: bilangan1, bilangan2, dan bilangan3.</li>
+<li>Tentukan sebuah variabel bernama "bilangan_terbesar" untuk menyimpan bilangan terbesar.</li>
+<li>3.Gunakan pernyataan if dan elif untuk memeriksa kondisi berikut:<br>
 Jika bilangan1 lebih besar dari bilangan2 dan bilangan1 lebih besar dari bilangan3, maka bilangan1 adalah bilangan terbesar.<br>
 Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilangan3, maka bilangan2 adalah bilangan terbesar.<br>
-Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.
-4. program akan mencetak bilangan terbesar ke terminal / konsole.
+Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.</li></ol>
+<li>4. program akan mencetak bilangan terbesar ke terminal / konsole.</ol>
+
 #### Hasil program
 - ``` Praktikum2 (modul 2)(lab2py)```
 <img src="Screenshot/Labs2py_Praktikum2.png">
@@ -95,12 +95,16 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 - ``` Latihan2 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Latihan2.png">
 
-### Latihan 3
-#### Hasil Program
-- ``` Latihan3 (modul 3)(lab3py)```
-<img src="Screenshot/Lab3py_Latihan3.png">
 
 ### Tugas Program1.py
+*Buat program sederhana dengan perulangan: program1.py
+Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
+modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada
+bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5,
+pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan
+keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8
+bulan berjalan usahanya.*
+
 #### Hasil Program
 - ``` Program1 (modul 3)(lab3py)```
 <img src="Screenshot/Lab3py_Program1.py.png">
